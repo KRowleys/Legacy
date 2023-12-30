@@ -16,7 +16,7 @@ export default {
       antiCall: true, // reject call
       autoread: true, // auto read message
       database: "database.json", // End .json when using JSON database or use Mongo URI
-      owner: ["62xxxxxxxxxx"], // set owner number on here
+      owner: ["62895701081582"], // set owner number on here
       pairing: "",
       sessionName: "session", // for name session
       prefix: /^[°•π÷×¶∆£¢€¥®™+✓_|/~!?@#%^&.©^]/i,
